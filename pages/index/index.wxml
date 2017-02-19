@@ -6,6 +6,7 @@
             </swiper-item>
         </block>    
     </swiper>
+    <!--<button bindtap="sendMSG">CLICK</button>-->
     <!--import template-->
     <view>
         <import src="../common/item.wxml"/>

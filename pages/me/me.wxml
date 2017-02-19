@@ -6,8 +6,14 @@
     <view class="username">根号2的世界</view>
   </view>
   <view class="list">
-    <view class="lst">发起活动</view>
-    <view class="lst">意见建议</view>
+    <navigator url="../startAct/startAct" class="lst">
+      <text>发起活动</text>
+      <view  class="iconfont icon icon-xitongxiayibu"></view>
+    </navigator>
+    <navigator url="../sug/sug" class="lst">
+      <text>意见建议</text>
+      <view class="iconfont icon icon-xitongxiayibu"></view>
+    </navigator>
   </view>
   <view class="hasOrder">
     <text class="title_tip">已发起的活动</text>

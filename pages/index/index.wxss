@@ -1,9 +1,4 @@
 /* pages/index/index.wxss */
-
-
-
-
-
 .swiperWrap{
   position: relative;
 }

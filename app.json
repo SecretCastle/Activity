@@ -2,7 +2,12 @@
     "pages": [
       "pages/index/index",
       "pages/shake/shake",
-      "pages/me/me"
+      "pages/me/me",
+      "pages/detail/detail",
+      "pages/chat/chat",
+      "pages/sug/sug",
+      "pages/startAct/startAct",
+      "pages/substartAct/substartAct"
     ],
     "window": {
       "navigationBarBackgroundColor": "#393939",
@@ -35,5 +40,5 @@
         "selectedIconPath": "pages/images/me_hover.png"
       }]
     },
-    "debug":true
+    "debug":false
 }

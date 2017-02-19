@@ -1,3 +1,5 @@
+
+
 .title_style {
   color: #000;
   line-height: 28px;
@@ -39,9 +41,12 @@
 }
 
 .listItem .imgWrap {
+  width: 100rpx;
+  height: 100rpx;
   border: 1px solid #ebebeb;
   border-radius: 50%;
   padding: 5px;
+  margin-top: 2px;
 }
 
 .listItem image {
